@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+body {
+  background-color: #f2f3f5;
+  padding: 2rem;
+}
